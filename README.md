@@ -9,7 +9,7 @@ Welcome to HyperSTLLM's GitHub repository! This project aims to explore the appl
 Our research baselines models refer to the following works and their repository code.
 
 
-STG4Traffic: {A} Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction. [[Paper]]((https://arxiv.org/abs/2307.00495))[[Code]](https://github.com/thuml/Time-Series-Library/blob/main/models/FiLM.py).
+STG4Traffic: {A} Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction. [[Paper]](https://arxiv.org/abs/2307.00495)[[Code]](https://github.com/trainingl/STG4Traffic?utm_source=catalyzex.com).
 ```tex
 @article{DBLP:journals/corr/abs-2307-00495,
   author       = {Xunlian Luo and
@@ -24,7 +24,7 @@ STG4Traffic: {A} Survey and Benchmark of Spatial-Temporal Graph Neural Networks 
 }
 ```
 
-TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis. [[Paper]](https://openreview.net/forum?id=zTQdHSQUQWc)[[Code]](https://github.com/thuml/Time-Series-Library/blob/main/models/FiLM.py).
+TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis. [[Paper]](https://openreview.net/forum?id=ju_Uqw384Oq)[[Code]](https://github.com/thuml/Time-Series-Library).
 ```tex
 @inproceedings{wu2023timesnet,
   title={TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis},
