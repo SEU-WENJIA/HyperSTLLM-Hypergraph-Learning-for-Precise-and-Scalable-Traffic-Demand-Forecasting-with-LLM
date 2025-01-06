@@ -12,10 +12,7 @@ Our research baselines models refer to the following works and their repository 
 STG4Traffic: {A} Survey and Benchmark of Spatial-Temporal Graph Neural Networks for Traffic Prediction. [[Paper]](https://arxiv.org/abs/2307.00495)[[Code]](https://github.com/trainingl/STG4Traffic?utm_source=catalyzex.com).
 ```tex
 @article{DBLP:journals/corr/abs-2307-00495,
-  author       = {Xunlian Luo and
-                  Chunjiang Zhu and
-                  Detian Zhang and
-                  Qing Li},
+  author       = {Xunlian Luo and Chunjiang Zhu and Detian Zhang and Qing Li},
   title        = {STG4Traffic: {A} Survey and Benchmark of Spatial-Temporal Graph Neural
                   Networks for Traffic Prediction},
   journal      = {CoRR},
