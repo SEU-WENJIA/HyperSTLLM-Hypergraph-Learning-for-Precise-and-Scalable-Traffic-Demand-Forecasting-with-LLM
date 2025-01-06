@@ -24,13 +24,13 @@ STG4Traffic: {A} Survey and Benchmark of Spatial-Temporal Graph Neural Networks 
 }
 ```
 
-TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis. [[Paper]](https://openreview.net/forum?id=ju_Uqw384Oq)[[Code]](https://github.com/thuml/Time-Series-Library).
+Deep Time Series Models: A Comprehensive Survey and Benchmark. [[Paper]](https://arxiv.org/abs/2407.13278)[[Code]](https://github.com/thuml/Time-Series-Library).
 ```tex
-@inproceedings{wu2023timesnet,
-  title={TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis},
-  author={Haixu Wu and Tengge Hu and Yong Liu and Hang Zhou and Jianmin Wang and Mingsheng Long},
-  booktitle={International Conference on Learning Representations},
-  year={2023},
+@article{wang2024tssurvey,
+  title={Deep Time Series Models: A Comprehensive Survey and Benchmark},
+  author={Yuxuan Wang and Haixu Wu and Jiaxiang Dong and Yong Liu and Mingsheng Long and Jianmin Wang},
+  booktitle={arXiv preprint arXiv:2407.13278},
+  year={2024},
 }
 
 ```
